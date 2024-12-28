@@ -3,6 +3,11 @@
 # 💫 About Me:
 🔭 A passionate student in cyber sercurity from UIT, Viet Nam<br>🌱 I’m currently learning about malware<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V1kt0r-24/V1kt0r-24/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V1kt0r-24/V1kt0r-24/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/V1kt0r-24/V1kt0r-24/output/github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ngocbao2405/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ngocbao_245) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ngoc-bao-136474286/) 
